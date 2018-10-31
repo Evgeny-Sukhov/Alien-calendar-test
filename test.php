@@ -98,6 +98,6 @@ function getDayOfWeek($date) {
 	
 }
 
-	print_r(getDayOfWeek("1.1.1991"));
+	echo getDayOfWeek("17.11.2013");
 
 ?>
